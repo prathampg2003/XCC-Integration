@@ -91,11 +91,3 @@ Made with 🐍 Python · [Report an issue][issues-url] · [Star this repo][stars
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[forks-shield]: https://img.shields.io/github/forks/rahulbagal/upload-file-azure-sas-url.svg?style=for-the-badge
-[forks-url]: https://github.com/rahulbagal/upload-file-azure-sas-url/network/members
-[stars-shield]: https://img.shields.io/github/stars/rahulbagal/upload-file-azure-sas-url.svg?style=for-the-badge
-[stars-url]: https://github.com/rahulbagal/upload-file-azure-sas-url/stargazers
-[issues-shield]: https://img.shields.io/github/issues/rahulbagal/upload-file-azure-sas-url.svg?style=for-the-badge
-[issues-url]: https://github.com/rahulbagal/upload-file-azure-sas-url/issues
-[license-shield]: https://img.shields.io/github/license/rahulbagal/upload-file-azure-sas-url.svg?style=for-the-badge
-[license-url]: https://github.com/rahulbagal/upload-file-azure-sas-url/blob/main/LICENSE
